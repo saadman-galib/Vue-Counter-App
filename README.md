@@ -17,9 +17,7 @@
 
 ### Built With
 
-- [Vue Template Syntex](#built-with)
-- [Vue setup with Vite](#built-with)
-- [Vue methods](#built-with)
+- [Vue](#built-with)
 
 ## How To Use
 
@@ -32,7 +30,9 @@ git clone https://github.com/saadman-galib/JS-Project-Counter.git
 
 ## Acknowledgements
 
-- [](#acknowledgements)
+- [Vue Template Syntex](#acknowledgements)
+- [Vue setup with Vite](#acknowledgements)
+- [Vue methods](#acknowledgements)
 
 ## Credit
 The background color I have used is from [CSS Gradient](https://cssgradient.io/)
