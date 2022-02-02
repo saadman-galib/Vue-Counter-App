@@ -1,7 +1,44 @@
-# Vue 3 + Vite
+<h1 align="center">Vue Counter App</h1>
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Table of Contents
 
-## Recommended IDE Setup
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [How to use](#how-to-use)
+- [Acknowledgements](#acknowledgements)
+- [Credit](#credit)
+- [Contact](#contact)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## Overview
+
+![screenshot](./src/assets/README.png)
+
+
+
+### Built With
+
+- [Vue Template Syntex](#built-with)
+- [Vue setup with Vite](#built-with)
+- [Vue methods](#built-with)
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
+## Clone this repository
+```bash
+git clone https://github.com/saadman-galib/JS-Project-Counter.git
+```
+
+
+## Acknowledgements
+
+- [](#acknowledgements)
+
+## Credit
+The background color I have used is from [CSS Gradient](https://cssgradient.io/)
+
+## Contact
+
+- GitHub [@saadman-galib](https://www.github.com/saadman-galib)
+- Twitter [@GalibSaadman](https://www.twitter.com/GalibSaadman)
+- Facebok Page [@Saadman Codes](https://www.facebook.com/saadman.codes/)
