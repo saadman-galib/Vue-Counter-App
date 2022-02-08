@@ -24,9 +24,16 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 ## Clone this repository
 ```bash
-git clone https://github.com/saadman-galib/JS-Project-Counter.git
+git clone https://github.com/saadman-galib/Vue-Counter-App.git
 ```
-
+## Install dependencies
+```bash
+npm install
+```
+## Run the app
+```bash
+npm run dev
+```
 
 ## Acknowledgements
 
