@@ -7,6 +7,7 @@
                 id="decrease"
                 aria-label="decrease button"
                 @click="decreaseCount"
+                :style="[this.count<=0 ? {'background': '#6ca5b6'} : {'background': '#44b3d7'}]"
             >
                 {{ decrease }}
             </button>
@@ -38,6 +39,8 @@ export default {
         decreaseCount() {
             if (this.count <= 0) {
                 this.count = 0;
+
+                
             } else {
                 this.count--;
             }
